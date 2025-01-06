@@ -32,13 +32,6 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 383 0 664"))
-      (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1072 24 705"))
-      (Path "D:\GITHUB_DEV\CADENCE_LIBRARY\SYMBOLS\GOST_MAIN.OLB")
-      (Package "X_SJ-43504-SMT-TR")
-      (PartType "1")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 413 0 508"))
+      (Tab 0)))
   (MPSSessionName "vakva"))
