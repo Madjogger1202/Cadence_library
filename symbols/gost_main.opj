@@ -9,7 +9,7 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
+    (DOCKING_POSITION "59419")
     (NoModify))
   (Folder "Layout")
   (Folder "Outputs")
@@ -32,6 +32,13 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 413 0 508"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 426 0 797"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1413 24 838"))
+      (Path "D:\GITHUB_DEV\CADENCE_LIBRARY\SYMBOLS\GOST_MAIN.OLB")
+      (Package "XW_SMA-EDGE-S")
+      (PartType "1")))
   (MPSSessionName "vakva"))
